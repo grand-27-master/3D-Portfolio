@@ -262,4 +262,29 @@ import {
     },
   ];
   
-  export default { services, technologies, experiences, testimonials, projects };
+  export default { 
+    mobile,
+    backend,
+    creator,
+    web,
+    javascript,
+    typescript,
+    html,
+    css,
+    reactjs,
+    redux,
+    tailwind,
+    nodejs,
+    mongodb,
+    git,
+    figma,
+    docker,
+    meta,
+    starbucks,
+    tesla,
+    shopify,
+    carrent,
+    jobit,
+    tripguide,
+    threejs,
+  };
