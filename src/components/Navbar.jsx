@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import {useState, useEffect} from 'react'
 import styles from '../styles'
 import navlinks from '../constants'
-import logo from '../assets'
+import logo from '../assets/logo.png'
 
 const Navbar = () => {
 
